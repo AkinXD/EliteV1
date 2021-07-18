@@ -61,8 +61,8 @@ Hacking Tools And Facebook Bot
 	
 	$ pkg install git
 	
-	$ git clone https://github.com/MR-X-Junior/Facebook
+	$ git clone https://github.com/AkinXD/EliteV1
 	
-	$ cd Facebook
+	$ cd EliteV1
 	
 	$ ruby main.rb
